@@ -15,6 +15,7 @@ Google Cybersecurity Certified · MS in Cybersecurity and Information Assurance 
 
 | Project | What it is |
 |---|---|
+| [**deepfake-detector**](https://github.com/akanniade1-1/deepfake-detector) | 2026 open-source rebuild: ResNet18 fine-tuned on 140,000 real vs. StyleGAN faces; 99.3% accuracy on the 20,000-image held-out test set, with a model card, documented limitations and a local Gradio demo. |
 | **Deepfake Detection System** | Senior project: CNN + RNN model in PyTorch; 92% accuracy and 89% recall across 218,122 images, 30% faster with CUDA. Presented at the 2024 Great Minds in STEM Conference. |
 | **Cybersecurity and Digital Inclusion Framework** | Capstone (team of four, Grow with Google track) to protect underserved communities from scams and identity theft, aligned with UN SDG 10. |
 | **RC4 Cryptography Analysis** | Analyzed RC4 encryption in C++, identified vulnerabilities and proposed enhancements. |
