@@ -5,9 +5,9 @@ Google Cybersecurity Certified · MS in Cybersecurity and Information Assurance 
 
 🔎 Open to **SOC analyst and security analyst** roles in Houston, Austin, Chicago or the DC area (on-site, hybrid or remote).
 
-🌐 **Portfolio:** [emmanuel-f-adeyemi.netlify.app](https://emmanuel-f-adeyemi.netlify.app)
-💼 **LinkedIn:** [emmanuel-f-adeyemi](https://www.linkedin.com/in/emmanuel-f-adeyemi-536b4b264)
-📫 **Email:** emmanuelak1315@gmail.com
+- 🌐 **Portfolio:** [emmanuel-f-adeyemi.netlify.app](https://emmanuel-f-adeyemi.netlify.app)
+- 💼 **LinkedIn:** [emmanuel-f-adeyemi](https://www.linkedin.com/in/emmanuel-f-adeyemi-536b4b264)
+- 📫 **Email:** emmanuelak1315@gmail.com
 
 ---
 
